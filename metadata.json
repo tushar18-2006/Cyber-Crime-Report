@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Crime Reporting Portal",
+  "description": "Secure portal for citizens to file cyber crime complaints, upload evidence, track status, and communicate with investigating officers and admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

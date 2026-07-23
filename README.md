@@ -6,9 +6,7 @@ A secure and modern full-stack web application that enables citizens to report c
 
 # 📸 Project Preview
 
-<p align="center">
-  <img src="./assets/homepage.png" alt="Cyber Crime Reporting Portal" width="100%">
-</p>
+![image alt](https://github.com/tushar18-2006/Cyber-Crime-Report/blob/ab3d596c0cbc2448dc649fab56a81c2558e1d790/Screenshot%202026-07-23%20111230.png)
 
 ---
 
